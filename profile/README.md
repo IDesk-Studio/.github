@@ -1,1 +1,1 @@
-Установочные файлы последних версий можно найти [здесь](https://github.com/Azbooka/installer/releases/latest)
+Установочные файлы последних версий можно найти [здесь](https://apps.idesk.su/download/)
